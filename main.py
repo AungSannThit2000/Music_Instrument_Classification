@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from io import StringIO
-import librosa
+
 import numpy as np
 
 st.write("THis is music insturement sound classifier")
